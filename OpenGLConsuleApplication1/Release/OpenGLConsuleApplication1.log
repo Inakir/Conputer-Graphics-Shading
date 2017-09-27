@@ -1,0 +1,42 @@
+﻿  PolygonDrawer.cpp
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(67): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(69): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(95): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(100): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(101): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\PolygonDrawer.h(102): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+PolygonDrawer.cpp(53): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(88): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+PolygonDrawer.cpp(104): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+PolygonDrawer.cpp(120): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(126): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(139): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(142): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+PolygonDrawer.cpp(147): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+PolygonDrawer.cpp(152): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(177): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(183): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(196): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(206): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+PolygonDrawer.cpp(214): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+PolygonDrawer.cpp(219): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(250): warning C4305: '=': truncation from 'double' to 'float'
+PolygonDrawer.cpp(255): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+PolygonDrawer.cpp(256): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+PolygonDrawer.cpp(257): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+PolygonDrawer.cpp(276): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(282): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(295): warning C4018: '<': signed/unsigned mismatch
+PolygonDrawer.cpp(305): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+PolygonDrawer.cpp(314): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+PolygonDrawer.cpp(319): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 704 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLConsuleApplication1.vcxproj -> C:\Users\Inaki\Documents\Visual Studio 2015\Projects\HW4\Release\OpenGLConsuleApplication1.exe

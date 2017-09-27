@@ -1,0 +1,24 @@
+﻿  ScanConvert.cpp
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(63): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(67): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(68): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(69): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(95): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(100): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(101): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\polygondrawer.h(102): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(133): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(138): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(139): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(140): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(244): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\inaki\documents\visual studio 2015\projects\hw4\openglconsuleapplication1\scanconvert.cpp(228): warning C4101: 'skip': unreferenced local variable
+  OpenGLConsuleApplication1.vcxproj -> C:\Users\Inaki\Documents\Visual Studio 2015\Projects\HW4\Debug\OpenGLConsuleApplication1.exe
